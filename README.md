@@ -53,9 +53,9 @@ notice: version show on Colab(Google Jupyternotebook on Date: 2022/01/21)
 
 ### 一、Correlation （关联）
 
-1. Scatter plot（散点图）      
-2. Scatter plot with linear regression line of best fit （带线性回归最佳拟合线的散点图）  
-3. Bubble plot with Border（气泡图带边界）  
+1. Scatter Plot（散点图）  
+3. Bubble Plot Within Scatter Plot（气泡图带边界）  
+3. Scatter plot with linear regression line of best fit （带线性回归最佳拟合线的散点图）  
 4 Jittering with stripplot （抖动图）
 5 Counts Plot（计数图）
 6 Marginal Histogram （边缘直方图）
