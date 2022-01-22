@@ -51,17 +51,17 @@ notice: version show on Colab(Google Jupyternotebook on Date: 2022/01/21)
 
 ## Viz Graph Table of Contents
 
-### 一、Correlation （关联）
+### 一、Correlation (关联)
 
-1. Scatter Plot（散点图）  
-3. Bubble Plot Within Scatter Plot（气泡图带边界）  
-3. Scatter plot with linear regression line of best fit （带线性回归最佳拟合线的散点图）  
-4 Jittering with stripplot （抖动图）
-5 Counts Plot（计数图）
-6 Marginal Histogram （边缘直方图）
-7 Marginal Boxplot （边缘箱形图）
-8 Correllogram （相关图）
-9 Pairwise Plot （矩阵图）
+- [x] **1. Scatter Plot (散点图)**  
+- [x] **2. Bubble Plot Within Scatter Plot (气泡图带边界)**  
+- [ ] **3. Scatter plot with linear regression line of best fit (带线性回归最佳拟合线的散点图)**  
+- [ ] **4. Jittering with stripplot (抖动图)**  
+- [ ] **5. Counts Plot (计数图)**  
+- [ ] **6. Marginal Histogram (边缘直方图)**  
+- [ ] **7 Marginal Boxplot (边缘箱形图)**  
+- [ ] **8 Correllogram (相关图)**  
+- [ ] **9 Pairwise Plot (矩阵图)**  
 
 ### 二、Deviation （偏差）
 
