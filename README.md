@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-21 13:17:17
- * @LastEditTime: 2022-01-22 21:09:48
+ * @LastEditTime: 2022-01-22 21:14:30
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \00Matplotlib_Seaborn_Visualization_World\README.md
@@ -99,30 +99,25 @@ notice: version show on Colab(Google Jupyternotebook on Date: 2022/01/21)
 - [ ] **32 Pie Chart (饼图)**
 - [ ] **33 Treemap (树形图)**
 - [ ] **34 Bar Chart (条形图)**
-- [ ] **30 Categorical Plots (分类图)**
-      31 Waffle Chart （华夫饼图）
-      32 Pie Chart （饼图）
-      33 Treemap （树形图）
-      34 Bar Chart （条形图）
 
 ### 六、Change （变化）
 
-35 Time Series Plot （时间序列图）
-36 Time Series with Peaks and Troughs Annotated （带波峰波谷标记的时序图）
-37 Autocorrelation (ACF) and Partial Autocorrelation (PACF) Plot （自相关和部分自相关图）
-38 Cross Correlation plot （交叉相关图）
-39 Time Series Decomposition Plot （时间序列分解图）
-40 Multiple Time Series （多个时间序列）
-41 Plotting with different scales using secondary Y axis （使用辅助 Y 轴来绘制不同范围的图形）
-42 Time Series with Error Bands （带有误差带的时间序列）
-43 Stacked Area Chart （堆积面积图）
-44 Area Chart UnStacked （未堆积的面积图）
-45 Calendar Heat Map （日历热力图）
-46 Seasonal Plot （季节图）
+- [ ] **35 Time Series Plot (时间序列图)**
+- [ ] **36 Time Series with Peaks and Troughs Annotated (带波峰波谷标记的时序图)**
+- [ ] **37 Autocorrelation (ACF) and Partial Autocorrelation (PACF) Plot (自相关和部分自相关图)**
+- [ ] **38 Cross Correlation plot (交叉相关图)**
+- [ ] **39 Time Series Decomposition Plot (时间序列分解图)**
+- [ ] **40 Multiple Time Series (多个时间序列)**
+- [ ] **41 Plotting with different scales using secondary Y axis (使用辅助 Y 轴来绘制不同范围的图形)**
+- [ ] **42 Time Series with Error Bands (带有误差带的时间序列)**
+- [ ] **43 Stacked Area Chart (堆积面积图)**
+- [ ] **44 Area Chart UnStacked (未堆积的面积图)**
+- [ ] **45 Calendar Heat Map (日历热力图)**
+- [ ] **46 Seasonal Plot (季节图)**
 
 ### 七、Groups （分组）
 
-47 Dendrogram （树状图）
-48 Cluster Plot （簇状图）
-49 Andrews Curve （安德鲁斯曲线）
-50 Parallel Coordinates （平行坐标）
+- [ ] **47 Dendrogram (树状图)**
+- [ ] **48 Cluster Plot (簇状图)**
+- [ ] **49 Andrews Curve (安德鲁斯曲线)**
+- [ ] **50 Parallel Coordinates (平行坐标)**
