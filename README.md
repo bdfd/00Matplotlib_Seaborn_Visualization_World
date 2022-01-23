@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-21 13:17:17
- * @LastEditTime: 2022-01-22 21:14:30
+ * @LastEditTime: 2022-01-23 00:19:42
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \00Matplotlib_Seaborn_Visualization_World\README.md
@@ -56,12 +56,12 @@ notice: version show on Colab(Google Jupyternotebook on Date: 2022/01/21)
 - [x] **1. Scatter Plot (散点图)**
 - [x] **2. Bubble Plot Within Scatter Plot (气泡图带边界)**
 - [ ] **3. Scatter plot with linear regression line of best fit (带线性回归最佳拟合线的散点图)**
-- [ ] **4. Jittering with stripplot (抖动图)**
+- [x] **4. Jittering with stripplot (抖动图)**
 - [ ] **5. Counts Plot (计数图)**
-- [ ] **6. Marginal Histogram (边缘直方图)**
+- [x] **6. Marginal Histogram (边缘直方图)**
 - [ ] **7 Marginal Boxplot (边缘箱形图)**
-- [ ] **8 Correllogram (相关图)**
-- [ ] **9 Pairwise Plot (矩阵图)**
+- [x] **8 Correllogram (相关图)**
+- [x] **9 Pairwise Plot (矩阵图)**
 
 ### 二、Deviation （偏差）
 
