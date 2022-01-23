@@ -1,10 +1,10 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-21 13:17:17
- * @LastEditTime: 2022-01-21 13:45:51
+ * @LastEditTime: 2022-01-22 21:09:48
  * @LastEditors: BDFD
  * @Description:
- * @FilePath: \Matplotlib_Seaborn_Visualization_World\README.md
+ * @FilePath: \00Matplotlib_Seaborn_Visualization_World\README.md
 -->
 
 # Matplotlib_Seaborn_Visualization_World
@@ -53,52 +53,57 @@ notice: version show on Colab(Google Jupyternotebook on Date: 2022/01/21)
 
 ### 一、Correlation (关联)
 
-- [x] **1. Scatter Plot (散点图)**  
-- [x] **2. Bubble Plot Within Scatter Plot (气泡图带边界)**  
-- [ ] **3. Scatter plot with linear regression line of best fit (带线性回归最佳拟合线的散点图)**  
-- [ ] **4. Jittering with stripplot (抖动图)**  
-- [ ] **5. Counts Plot (计数图)**  
-- [ ] **6. Marginal Histogram (边缘直方图)**  
-- [ ] **7 Marginal Boxplot (边缘箱形图)**  
-- [ ] **8 Correllogram (相关图)**  
-- [ ] **9 Pairwise Plot (矩阵图)**  
+- [x] **1. Scatter Plot (散点图)**
+- [x] **2. Bubble Plot Within Scatter Plot (气泡图带边界)**
+- [ ] **3. Scatter plot with linear regression line of best fit (带线性回归最佳拟合线的散点图)**
+- [ ] **4. Jittering with stripplot (抖动图)**
+- [ ] **5. Counts Plot (计数图)**
+- [ ] **6. Marginal Histogram (边缘直方图)**
+- [ ] **7 Marginal Boxplot (边缘箱形图)**
+- [ ] **8 Correllogram (相关图)**
+- [ ] **9 Pairwise Plot (矩阵图)**
 
 ### 二、Deviation （偏差）
 
-10 Diverging Bars （发散型条形图）
-11 Diverging Texts （发散型文本）
-12 Diverging Dot Plot （发散型包点图）
-13 Diverging Lollipop Chart with Markers （带标记的发散型棒棒糖图）
-14 Area Chart （面积图）
+- [ ] **10 Diverging Bars (发散型条形图)**
+- [ ] **11 Diverging Texts (发散型文本)**
+- [ ] **12 Diverging Dot Plot (发散型包点图)**
+- [ ] **13 Diverging Lollipop Chart with Markers (带标记的发散型棒棒糖图)**
+- [ ] **14 Area Chart (面积图)**
 
 ### 三、Ranking （排序）
 
-15 Ordered Bar Chart （有序条形图）
-16 Lollipop Chart （棒棒糖图）
-17 Dot Plot （包点图）
-18 Slope Chart （坡度图）
-19 Dumbbell Plot （哑铃图）
+- [ ] **15 Ordered Bar Chart (有序条形图)**
+- [ ] **16 Lollipop Chart (棒棒糖图)**
+- [ ] **17 Dot Plot (包点图)**
+- [ ] **18 Slope Chart (坡度图)**
+- [ ] **19 Dumbbell Plot (哑铃图)**
 
 ### 四、Distribution （分布）
 
-20 Histogram for Continuous Variable （连续变量的直方图）
-21 Histogram for Categorical Variable （类型变量的直方图）
-22 Density Plot （密度图）
-23 Density Curves with Histogram （直方密度线图）
-24 Joy Plot
-25 Distributed Dot Plot （分布式包点图）
-26 Box Plot （箱形图）
-27 Dot + Box Plot （点+箱形图）
-28 Violin Plot （小提琴图）
-29 Population Pyramid （人口金字塔）
-30 Categorical Plots （分类图）
+- [ ] **20 Histogram for Continuous Variable (连续变量的直方图)**
+- [ ] **21 Histogram for Categorical Variable (类型变量的直方图)**
+- [ ] **22 Density Plot (密度图)**
+- [ ] **23 Density Curves with Histogram (直方密度线图)**
+- [ ] **24 Joy Plot**
+- [ ] **25 Distributed Dot Plot (分布式包点图)**
+- [ ] **26 Box Plot (箱形图)**
+- [ ] **27 Dot + Box Plot (点+箱形图)**
+- [ ] **28 Violin Plot (小提琴图)**
+- [ ] **29 Population Pyramid (人口金字塔)**
+- [ ] **30 Categorical Plots (分类图)**
 
 ### 五、Composition （组成）
 
-31 Waffle Chart （华夫饼图）
-32 Pie Chart （饼图）
-33 Treemap （树形图）
-34 Bar Chart （条形图）
+- [ ] **31 Waffle Chart (华夫饼图)**
+- [ ] **32 Pie Chart (饼图)**
+- [ ] **33 Treemap (树形图)**
+- [ ] **34 Bar Chart (条形图)**
+- [ ] **30 Categorical Plots (分类图)**
+      31 Waffle Chart （华夫饼图）
+      32 Pie Chart （饼图）
+      33 Treemap （树形图）
+      34 Bar Chart （条形图）
 
 ### 六、Change （变化）
 
